@@ -1,0 +1,6 @@
+.space {height: 100px;}
+.box {
+    height: 300px;
+    background-color: forestgreen;
+    width: 100px
+}
